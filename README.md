@@ -30,11 +30,11 @@ Full-stack AI system for addiction recovery. Fine-tuned LLM via PEFT on Azure, b
 ---
 ## Architecture
 
-### System Overview
-![Azure Architecture](./assets/azure_architecture.png)
-
 ### System Flow
 ![System Flow](./assets/system_flow.png)
+
+### System Overview
+![Azure Architecture](./assets/azure_architecture.png)
 
 ---
 
