@@ -28,6 +28,15 @@ Full-stack AI system for addiction recovery. Fine-tuned LLM via PEFT on Azure, b
 `PEFT` `Azure AI Foundry` `TypeScript` `Cosmos DB` `Python`
 
 ---
+## Architecture
+
+### System Overview
+![Azure Architecture](./assets/azure_architecture.png)
+
+### System Flow
+![System Flow](./assets/system_flow.png)
+
+---
 
 ## Tech Stack
 
