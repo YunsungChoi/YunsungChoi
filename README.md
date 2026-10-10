@@ -13,7 +13,7 @@ I'm an AI/ML engineer who enjoys building things that didn't exist before. My pr
 
 Currently open to **Applied AI / ML Engineer** roles at companies working on real-world AI products.
 
-📬 ychoi4@seattleu.edu · [LinkedIn](https://linkedin.com/in/yunsung-choi-365227139/) 
+📬 yunsungchoi5@gmail.com ·ychoi4@seattleu.edu · [LinkedIn](https://linkedin.com/in/yunsung-choi-365227139/) 
 
 ---
 
