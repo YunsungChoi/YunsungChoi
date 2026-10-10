@@ -49,6 +49,6 @@ Full-stack AI system for addiction recovery. Fine-tuned LLM via PEFT on Azure, b
 
 ## Stats
 
-- 🎓 GPA: 3.8 (MS) · 3.6 (BS)
+- 🎓 GPA: 3.8 (MS) · 3.7 (BS)
 - 🏅 Tau Sigma National Honor Society
 - 📍 Seattle, WA — open to remote & relocation
